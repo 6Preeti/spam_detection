@@ -14,19 +14,20 @@ Scikit-learn: A machine learning library used to implement the Naive Bayes model
 Pickle: Used for serializing the trained model and vectorizer.
 <br>
 # Project Structure
-spam-detection-system/
-├── app/
-│   ├── templates/
-│   │   └── index.html
-│   │   └── show.html
-│   ├── main.py
-│   ├── Naive_model.pkl
-├── data/
-│   ├── spam.csv
-├── prepare_models/
-│   └── spam_detection.ipynb
-├── static/
-│   └── gif
-├── README.md
+spam-detection-system/<br>
+├── app/ <br>
+│   ├── templates/<br>
+│   │   └── index.html <br>
+│   │   └── show.html <br>
+│   ├── main.py <br>
+│   ├── Naive_model.pkl <br>
+├── data/  <br>
+│   ├── spam.csv <br>
+├── prepare_models/ <br>
+│   └── spam_detection.ipynb <br>
+├── static/ <br>
+│   └── gif <br>
+├── README.md <br>
 <br>
-<b>***<b>This project was developed as part of an internship, showcasing the application of machine learning skills in building a practical spam detection system.
+<br>
+<b>***<b>This project was showcasing the application of machine learning skills in building a practical spam detection system.
