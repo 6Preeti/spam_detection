@@ -29,5 +29,9 @@ spam-detection-system/<br>
 │   └── gif <br>
 ├── README.md <br>
 <br>
+# Screenshot Of Project
+
+![image](https://github.com/6Preeti/spam_detection/assets/88951371/75c5d931-6bb9-4d18-844a-62562709c0f3)
+<br>
 <br>
 <b>***<b>This project was showcasing the application of machine learning skills in building a practical spam detection system.
