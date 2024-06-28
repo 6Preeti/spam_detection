@@ -12,3 +12,21 @@ Flask: A micro web framework for building the web interface and API.<br>
 Python: The primary programming language for developing the machine learning model and web service.<br>
 Scikit-learn: A machine learning library used to implement the Naive Bayes model and pipelining.<br>
 Pickle: Used for serializing the trained model and vectorizer.
+<br>
+# Project Structure
+spam-detection-system/
+├── app/
+│   ├── templates/
+│   │   └── index.html
+│   │   └── show.html
+│   ├── main.py
+│   ├── Naive_model.pkl
+├── data/
+│   ├── spam.csv
+├── prepare_models/
+│   └── spam_detection.ipynb
+├── static/
+│   └── gif
+├── README.md
+<br>
+<b>***<b>This project was developed as part of an internship, showcasing the application of machine learning skills in building a practical spam detection system.
